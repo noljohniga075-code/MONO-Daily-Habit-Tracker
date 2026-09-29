@@ -1,0 +1,6 @@
+{
+  "name": "MONO",
+  "description": "Minimalist luxury daily habit tracker with a sophisticated monochrome aesthetic. Small habits. Quiet progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
